@@ -1,0 +1,11 @@
+; Engine configuration file.
+; Documentation: https://docs.godotengine.org/
+
+config_version=5
+
+[application]
+config/name="Ashes Tomorrow"
+run/main_scene="res://main.tscn"
+
+[rendering]
+renderer/render_loop_enabled=true
